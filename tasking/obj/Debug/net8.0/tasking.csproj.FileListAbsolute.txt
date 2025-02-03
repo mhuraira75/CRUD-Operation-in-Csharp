@@ -1,0 +1,14 @@
+E:\CODING\C#\tasking\tasking\bin\Debug\net8.0\tasking.exe
+E:\CODING\C#\tasking\tasking\bin\Debug\net8.0\tasking.deps.json
+E:\CODING\C#\tasking\tasking\bin\Debug\net8.0\tasking.runtimeconfig.json
+E:\CODING\C#\tasking\tasking\bin\Debug\net8.0\tasking.dll
+E:\CODING\C#\tasking\tasking\bin\Debug\net8.0\tasking.pdb
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.AssemblyInfoInputs.cache
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.AssemblyInfo.cs
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.csproj.CoreCompileInputs.cache
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.dll
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\refint\tasking.dll
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.pdb
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\tasking.genruntimeconfig.cache
+E:\CODING\C#\tasking\tasking\obj\Debug\net8.0\ref\tasking.dll
